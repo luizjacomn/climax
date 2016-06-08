@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Climax</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_erro">Ops! Desculpe!</string>
+    <string name="mensagem_erro">Houve um erro. Por favor, tente novamente!</string>
+    <string name="botao_ok">OK</string>
+    <string name="mensagem_rede_indisponivel">Rede indisponível!</string>
+    <string name="label_climax">Climax com a chance de meatballs</string>
+</resources>
